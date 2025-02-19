@@ -1,5 +1,5 @@
-ACMEVoting - Sistema de Gerenciamento de Eleições
-O ACMEVoting é um sistema desenvolvido em Java para gerenciar eleições municipais. Ele permite o cadastro de partidos, candidatos e votos, além de fornecer consultas e estatísticas sobre os resultados da eleição. A entrada e saída de dados são feitas por meio de arquivos de texto, garantindo uma interação simples e eficiente.
+Sistema de Gerenciamento de Eleições
+Sistema desenvolvido em Java para gerenciar eleições municipais. Ele permite o cadastro de partidos, candidatos e votos, além de fornecer consultas e estatísticas sobre os resultados da eleição. A entrada e saída de dados são feitas por meio de arquivos de texto, garantindo uma interação simples e eficiente.
 
  Principais Funcionalidades
  Cadastro de partidos com número e nome.
