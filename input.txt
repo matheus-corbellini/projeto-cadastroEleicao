@@ -1,0 +1,76 @@
+11
+Partido Brasileiro
+22
+Partido Nacional
+33
+Partido Gaucho
+-1
+11
+Pedro da Silva
+Porto Alegre
+22 
+Maria de Souza
+Porto Alegre
+33
+Paulo da Silva
+Porto Alegre
+11
+Pedro da Silveira
+Canoas
+22 
+Maria de Campos
+Canoas
+33
+Paulo da Silveira
+Canoas
+11111
+Paula de Souza
+Canoas
+22111
+Mario de Souza
+Canoas
+33111
+Maria da Silva
+Canoas
+11222
+Joao da Silva
+Porto Alegre
+22222
+Joana de Souza
+Porto Alegre
+33222
+Heleno da Silva
+Canoas
+11333
+Helena de Souza
+Canoas
+22333
+Lauro da Silva
+Alvorada
+33333
+Laura de Souza
+Alvorada
+-1
+11
+Porto Alegre
+1
+22
+Porto Alegre
+2
+33
+Porto Alegre
+3
+11111
+Canoas
+111
+22111
+Canoas
+222
+33111
+Canoas
+333
+-1
+22
+22111
+Canoas
+Partido Gaucho

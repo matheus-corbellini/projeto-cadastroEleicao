@@ -1,0 +1,33 @@
+1:11,Partido Brasileiro
+1:22,Partido Nacional
+1:33,Partido Gaucho
+2:11,Pedro da Silva,Porto Alegre
+2:22,Maria de Souza,Porto Alegre
+2:33,Paulo da Silva,Porto Alegre
+2:11,Pedro da Silveira,Canoas
+2:22,Maria de Campos,Canoas
+2:33,Paulo da Silveira,Canoas
+2:11111,Paula de Souza,Canoas
+2:22111,Mario de Souza,Canoas
+2:33111,Maria da Silva,Canoas
+2:11222,Joao da Silva,Porto Alegre
+2:22222,Joana de Souza,Porto Alegre
+2:33222,Heleno da Silva,Canoas
+2:11333,Helena de Souza,Canoas
+2:22333,Lauro da Silva,Alvorada
+2:33333,Laura de Souza,Alvorada
+3:11,Porto Alegre,1
+3:22,Porto Alegre,2
+3:33,Porto Alegre,3
+3:11111,Canoas,111
+3:22111,Canoas,222
+3:33111,Canoas,333
+4:22,Partido Nacional
+5:22111,Mario de Souza,Canoas,222
+6:Partido Gaucho,33,Paulo da Silva,Porto Alegre,3
+6:Partido Gaucho,33,Paulo da Silveira,Canoas,0
+7:11,Partido Brasileiro,5
+8:33,Paulo da Silva,Porto Alegre,3
+8:33111,Maria da Silva,Canoas,333
+9:33,Partido Gaucho,333
+10:Canoas,4995
